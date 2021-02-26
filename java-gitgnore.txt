@@ -128,7 +128,7 @@ hs_err_pid*
 # Maven
 ######################
 /log/
-/target/
+target/
 .mvn/
 
 # Maven Wrapper (not excluded)
