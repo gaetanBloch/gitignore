@@ -127,9 +127,10 @@ hs_err_pid*
 ######################
 # Maven
 ######################
-/log/
+log/
 target/
 .mvn/
+.flattened-pom.xml
 
 # Maven Wrapper (not excluded)
 !.mvn/wrapper/maven-wrapper.jar
