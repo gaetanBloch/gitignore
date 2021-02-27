@@ -130,6 +130,8 @@ hs_err_pid*
 log/
 target/
 .mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
 .flattened-pom.xml
 
 # Maven Wrapper (not excluded)
